@@ -1,12 +1,12 @@
 # Mood Music App - Backend To-Do List
 
 ## Setup the Node.js Project
-- [ ] Initialize a Node.js project with Express and TypeScript.
-- [ ] Set up `tsconfig.json` for TypeScript configuration.
-- [ ] Install required dependencies.
-- [ ] Set up Express with basic routing.
-- [ ] Create an `.env` file to manage environment variables.
-- [ ] Use `nodemon` for automatic server restarts during development.
+- [X] Initialize a Node.js project with Express and TypeScript.
+- [X] Set up `tsconfig.json` for TypeScript configuration.
+- [X] Install required dependencies.
+- [X] Set up Express with basic routing.
+- [X] Create an `.env` file to manage environment variables.
+- [X] Use `nodemon` for automatic server restarts during development.
 
 ## Authentication with Spotify API
 - [ ] Register an app on the **Spotify Developer Dashboard**.
