@@ -9,8 +9,8 @@
 - [X] Use `nodemon` for automatic server restarts during development.
 
 ## Authentication with Spotify API
-- [ ] Register an app on the **Spotify Developer Dashboard**.
-- [ ] Obtain `client_id` and `client_secret`.
+- [X] Register an app on the **Spotify Developer Dashboard**.
+- [X] Obtain `client_id` and `client_secret`.
 - [ ] Implement OAuth 2.0 authorization flow.
 - [ ] Store and refresh Spotify access tokens.
 
