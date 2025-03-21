@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+dist/
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+jest/
+
+# VS Code settings
+.vscode/
