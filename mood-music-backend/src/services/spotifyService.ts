@@ -27,5 +27,4 @@ export async function getSpotifyAccessToken() {
         console.error("Error fetching Spotify access token:", error);
         throw new Error("Failed to get access token forom Spotify.");
     }
-
 }
